@@ -34,6 +34,7 @@ li a {
 .book-summary ul.summary li a,
 .book-summary ul.summary li span {
   color: #7f8c8d;
+  padding: 7px 15px;
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 }
 .book .book-summary ul.summary li span {
@@ -163,7 +164,7 @@ pre code.lang-css:after {
 }
 .markdown-section h2 {
   margin: 45px 0 0.8em;
-  padding-bottom: 0.7em;
+  padding-bottom: 0.2em;
   border-bottom: 1px solid #ddd;
 }
 .markdown-section h3 {
