@@ -80,8 +80,8 @@ li a {
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   -webkit-font-smoothing: initial;
   -moz-osx-font-smoothing: initial;
-  background-color: #f8f8f8;
-}
+  background-color: #f9efe6;
+}eccfb3
 code span.css,
 code span.javascript,
 code span.html,
@@ -101,7 +101,7 @@ span[class^="hljs-"] {
 code, pre {
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   font-size: 0.8em;
-  background-color: #f8f8f8;
+  background-color: #f9efe6;
   -webkit-font-smoothing: initial;
   -moz-osx-font-smoothing: initial;
 }
@@ -211,7 +211,7 @@ img {
   overflow-x: auto;
   position: relative;
   padding: 0;
-  background-color: #f8f8f8;
+  background-color: #f9efe6;
   padding: 0.8em 0.8em 0.4em;
   line-height: 1.1em;
   border-radius: 2px;
