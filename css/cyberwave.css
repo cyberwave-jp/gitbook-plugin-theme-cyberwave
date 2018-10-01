@@ -173,8 +173,11 @@ pre code.lang-css:after {
 }
 .markdown-section h3 {
   margin: 30px 0 0.4em;
-  padding-left: 24px;
+  padding-left: 12px;
+  background-color: #eee;
+  border-left: 12px solid #f47b0d;
   position: relative;
+  font-size: 1.2em;
 }
 .markdown-section figure,
 .markdown-section p,
